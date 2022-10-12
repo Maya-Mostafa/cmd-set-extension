@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "change-layout-cmdst",
+    "libraryId": "e736fac7-7742-4e58-acb4-df2145891dbd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "change-layout-cmdst",
+    "solutionShortDescription": "change-layout-cmdst description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
